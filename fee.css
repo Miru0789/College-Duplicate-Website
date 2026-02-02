@@ -1,0 +1,13 @@
+img{
+    min-width: 90%;
+    height: 30%;
+}
+table, th, td {
+            border: 1px solid black;
+            padding: 5px 10px;
+            border: solid black;
+            
+        }
+ a{
+     text-decoration: none;
+ }

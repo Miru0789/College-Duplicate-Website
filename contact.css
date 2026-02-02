@@ -1,0 +1,10 @@
+img{
+    min-width: 90%;
+    height: 30%;
+}
+a{
+    text-decoration: none;
+    text-decoration-color: rgb(175, 42, 227);
+    word-spacing: 2px;
+}
+
